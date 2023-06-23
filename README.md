@@ -7,8 +7,8 @@
 
 | Levels | Languages |
 |-----:|-----------|
-|   85%| `Lua ( FOR FIVEM)` |
-|   80%| `Python ( FOR DISCORD BOT)`|
+|   85%| `Lua (FOR FIVEM)` |
+|   80%| `Python (FOR DISCORD BOT)`|
 |   70%| `Html`      |
 |   70%| `Css`       |
 |   50%| `Js`        |
