@@ -1,4 +1,6 @@
 ### Hi there 👋
+---
+
 - 🖥 Learned FIVEM Development  
 - 🎈 16 Yo
 
