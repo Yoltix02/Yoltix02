@@ -3,8 +3,12 @@
 
 - 🖥 Learned FIVEM Development  
 - 🎈 16 Yo
-
+- 
 ---
+🧾 Language Learned 
+https://developer.mozilla.org/fr/docs/Web/JavaScript
+---
+
 > I am available for any type of request.
 
 | Levels | Languages |
