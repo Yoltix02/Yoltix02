@@ -2,6 +2,13 @@
 - 🖥 Learned FIVEM Development  
 - 🎈 16 Yo
 
+| Levels | Languages |
+|-----:|-----------|
+|   85%| Lua (FIVEM) |
+|   70%| Html      |
+|   70%| Css       |
+|   50%| Js        |
+|     3| Python(DISCORD)|
 
 <!--
 **Yoltix02/Yoltix02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
