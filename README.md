@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🖥 Learned FIVEM Development  
+- 🎈 16 Yo
+
 
 <!--
 **Yoltix02/Yoltix02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
