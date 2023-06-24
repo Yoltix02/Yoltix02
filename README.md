@@ -3,7 +3,7 @@
 
 - 🖥 Learned FIVEM Development  
 - 🎈 16 Yo
-- 
+
 ---
 
 > I am available for any type of request.
