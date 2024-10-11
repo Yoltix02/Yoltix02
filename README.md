@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning REACT
 - 💬 Ask me about Discord (yoltix)
-- 📫 How to reach me: ...
 ---
 
 > I am available for any type of request.
