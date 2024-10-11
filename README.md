@@ -2,19 +2,19 @@
 ---
 
 - 🖥 Learned FIVEM Development  
-- 🎈 16 Yo
+- 🎈 17 Yo
 
 ---
 
 > I am available for any type of request.
 
-| Levels | Languages |
-|-----:|-----------|
-|   85%| `Lua (FOR FIVEM)` |
-|   80%| `Python (FOR DISCORD BOT)`|
-|   70%| `Html`      |
-|   70%| `Css`       |
-|   50%| `Js`        |
+| Languages |
+|-----------|
+| `Lua` |
+| `Python`|
+| `Html`      |
+| `Css`       |
+| `Js`        |
 
 
 <!--
