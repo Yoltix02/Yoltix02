@@ -2,7 +2,6 @@
 ---
 
 - 🖥 Learned FIVEM Development  
-- 🎈 17 Yo
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning REACT
 - 💬 Ask me about Discord (yoltix)
